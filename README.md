@@ -1,4 +1,4 @@
-# Hola, soy Unai De Isusi 👋
+# Hola, soy Unai De Isusi Corrales👋
 
 Estudiante de **Ingeniería Informática** en la Universidad de Deusto (Bilbao). Me interesan el **desarrollo de software**, la **inteligencia artificial** y las **finanzas cuantitativas**: construir herramientas que conviertan datos en decisiones.
 
